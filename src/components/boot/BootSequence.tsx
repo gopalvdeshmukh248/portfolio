@@ -90,7 +90,7 @@ const bootMessages = [
   { text: '\nroot@localhost:~# Initializing system...', requireInput: false },
   { text: '\nroot@localhost:~# Loading Threat Intelligence Engine...', requireInput: false },
   { text: '\nroot@localhost:~# Establishing Secure Connection...', requireInput: false },
-  { text: '\nroot@localhost:~# Loading Profile: Gopal Deshmukh - SOC Analyst & Cybersecurity Professional', requireInput: false },
+  { text: '\nroot@localhost:~# Loading Profile: Gopal - Cybersecurity Professional', requireInput: false },
   { text: '\nroot@localhost:~# System Ready. Continue? (y/Enter)', requireInput: true }
 ];
 
